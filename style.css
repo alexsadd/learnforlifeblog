@@ -1,0 +1,11 @@
+html *{
+    font:'Segoe UI', Arial;
+}
+
+#secondline {
+    color: #159eee;
+}
+.gridblock {
+    margin-bottom: 40px;
+}
+
