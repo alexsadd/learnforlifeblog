@@ -6,7 +6,7 @@
     <?php include 'includes/stylesheets.php'?>
      <?php include 'body.php'?>
       <?php include 'headerpage.php'?>
-       <?php include 'footerpage.php'?>
+       <?php include 'footerpage1.php'?>
 
     <!--Unique page meta-->
     <title>Learn For Life | Home</title>
