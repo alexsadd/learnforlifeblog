@@ -1,9 +1,10 @@
-<div id="footer">
+
+    <div id="footer">
         <div class="row ">
             <div class="col-sm-3">
-              <div class="card">
+              <div class="card card-footer">
                 <div class="card-body">
-                  <h5 class="card-title">Adress</h5>
+                  <h5 class="card-title card-title-footer">Adress</h5>
                   <hr>
                   <p class="card-text"><p>241 – 243 London Road
                       Sheffield
@@ -16,9 +17,9 @@
               </div>
             </div>
             <div class="col-sm-3">
-              <div class="card">
-                <div class="card-body">
-                  <h5 class="card-title">Useful Link</h5>
+              <div class="card card-footer">
+                <div class="card-body card-body-footer">
+                  <h5 class="card-title card-title-footer">Useful Link</h5>
                   <hr>
                   <p class="card-text">
                     <a href="#"> <p>Contact</p></a>
@@ -30,9 +31,9 @@
             
             
                 <div class="col-sm-3">
-                  <div class="card">
-                    <div class="card-body">
-                      <h5 class="card-title">Community</h5>
+                  <div class="card card-footer">
+                    <div class="card-body card-body-footer">
+                      <h5 class="card-title card-title-footer">Community</h5>
                       <hr>
                       <p class="card-text"> <a href="file:///Users/Alex/Documents/GitHub/learnforlifeblog/index.html#"><p>Blog</p> </a>
                         <a href="file:///Users/Alex/Documents/GitHub/learnforlifeblog/index.html#"> <p>FaceBook Page</p></a>
@@ -40,9 +41,9 @@
                   </div>
                 </div>
                 <div class="col-sm-3">
-                  <div class="card">
-                    <div class="card-body">
-                      <h5 class="card-title">Recent Post</h5>
+                  <div class="card card-footer">
+                    <div class="card-body card-body-footer">
+                      <h5 class="card-title card-title-footer">Recent Post</h5>
                       <hr>
                       <p class="card-text"><p>LOREM IPSUM DOLOR SIT AMET</p>
                       <p>LOREM IPSUM DOLOR SIT AMET</p>
@@ -73,3 +74,5 @@ $(function () {
  $('[data-toggle="popover"]').popover()
 })
 </script>
+</body>
+</html>
