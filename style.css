@@ -2,6 +2,10 @@ html *{
     font-family:'Segoe UI', Arial;
 }
 
+#topline {
+  color: black;
+}
+
 #secondline {
     color: #159eee;
 }
